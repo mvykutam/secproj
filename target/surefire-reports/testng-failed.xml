@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.Securus.Radius23_utilities.MyListener"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.Securus.Radius23_TestScripts.Dummy">
+        <methods>
+          <include name="test"/>
+          <include name="initializeTestBaseSetup"/>
+        </methods>
+      </class> <!-- com.Securus.Radius23_TestScripts.Dummy -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,30 @@
+2017-08-26 11:23:06  INFO- In before class for initializing browser
+2017-08-26 11:23:06  INFO- setting the browser:'chrome'
+2017-08-26 11:23:16  INFO- In Before method, Waiting for some time to load the URL
+2017-08-26 11:23:36  INFO- In Before method to load the URL
+2017-08-26 11:23:40  INFO- Starting Test:test1 in class:com.Securus.Radius23_TestScripts.Dummy
+2017-08-26 11:23:40  INFO- Testing with dummy.test1 test
+2017-08-26 11:23:40 ERROR- 
+ Test Name:test1 fail in class:com.Securus.Radius23_TestScripts.Dummy and taking screenshot
+2017-08-26 11:23:40  INFO- In Before method, Waiting for some time to load the URL
+2017-08-26 11:24:00  INFO- In Before method to load the URL
+2017-08-26 11:24:01  INFO- Starting Test:test2 in class:com.Securus.Radius23_TestScripts.Dummy
+2017-08-26 11:24:01  INFO- Testing with dummy.test2 test
+2017-08-26 11:24:01  INFO- 
+ Success Test:test2 in class:com.Securus.Radius23_TestScripts.Dummy
+2017-08-26 11:24:01  INFO- In After class to Quit the browser
+2017-08-26 11:24:02  INFO- In before class for initializing browser
+2017-08-26 11:24:02  INFO- setting the browser:'chrome'
+2017-08-26 11:24:10  INFO- In Before method, Waiting for some time to load the URL
+2017-08-26 11:24:30  INFO- In Before method to load the URL
+2017-08-26 11:24:32  INFO- Starting Test:test1 in class:com.Securus.Radius23_TestScripts.Dummy2
+2017-08-26 11:24:32  INFO- Testing with dummy2.test1 test
+2017-08-26 11:24:32 ERROR- 
+ Test Name:test1 fail in class:com.Securus.Radius23_TestScripts.Dummy2 and taking screenshot
+2017-08-26 11:24:32  INFO- In Before method, Waiting for some time to load the URL
+2017-08-26 11:24:52  INFO- In Before method to load the URL
+2017-08-26 11:24:53  INFO- Starting Test:test2 in class:com.Securus.Radius23_TestScripts.Dummy2
+2017-08-26 11:24:53  INFO- Testing with dummy2.test2 test
+2017-08-26 11:24:53  INFO- 
+ Success Test:test2 in class:com.Securus.Radius23_TestScripts.Dummy2
+2017-08-26 11:24:53  INFO- In After class to Quit the browser
